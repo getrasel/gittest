@@ -1,1 +1,2 @@
-sdfsfsssssecond text
+git push --force origin master
+git push -u origin master
