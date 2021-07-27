@@ -1,0 +1,24 @@
+video link: https://youtu.be/J_Clau1bYco , https://youtu.be/GxjIBgvbsXU , https://youtu.be/bb_LoXAC-zE
+
+Set Up Git:
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+
+other commands
+git clone (url)
+git add (file names)
+git commit -m "(committed message)
+git push -u origin master
+git remote add origin master (url)
+
+
+git remote -v
+git status
+git log
+git remote rm
+
+
+git remote set-url origin git@github.com:rasel468676350/gittest.git
+git remote add origin https://github.com/rasel468676350/gittest.git
+git branch -M master
+git push -u origin master
